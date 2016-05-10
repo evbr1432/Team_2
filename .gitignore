@@ -148,3 +148,6 @@ ENV/
 
 #ignore our tweepy creds
 config.py
+
+#Ignore site stuff
+_site/
